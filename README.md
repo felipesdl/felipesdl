@@ -15,8 +15,7 @@
 
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=felipesdl&show_icons=true&theme=github_dark"></img>
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesdl&layout=compact&theme=github_dark"></img>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesdl&layout=compact&theme=github_dark"></img>
 
 <br>
 
