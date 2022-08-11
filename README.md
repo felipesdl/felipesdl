@@ -2,13 +2,10 @@
 - Desenvolvedor Back End
 - Cursando Análise e Desenvolvimento de Sistemas
 
-<br><br>
-
-
+<br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,js,html,css"></img>
 </div>
-
 <br>
 
 
