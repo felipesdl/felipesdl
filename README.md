@@ -1,11 +1,9 @@
 
 - Desenvolvedor Back End
 - Cursando Análise e Desenvolvimento de Sistemas
-- Meu email: felipesdl@outlook.com
 
 <br><br>
 
-##
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,js,html,css"></img>
@@ -14,7 +12,7 @@
 <br>
 
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=felipesdl&show_icons=true&theme=github_dark"></img>
+<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=felipesdl&show_icons=true&theme=github_dark"></img>
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesdl&layout=compact&theme=github_dark"></img>
 
 <br>
