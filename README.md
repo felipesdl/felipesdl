@@ -8,10 +8,10 @@
 </div>
 <br>
 
-
-<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=felipesdl&show_icons=true&theme=algolia"></img>
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesdl&layout=compact&theme=algolia "></img>
-
+<div align="center">
+<img width="43%" src="https://github-readme-stats.vercel.app/api?username=felipesdl&show_icons=true&theme=algolia"></img>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesdl&layout=compact&theme=algolia"></img>
+</div>
 <br>
 
 <div align="center">
