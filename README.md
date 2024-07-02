@@ -1,10 +1,11 @@
 
-- Desenvolvedor Back End
-- Cursando Análise e Desenvolvimento de Sistemas
+- Desenvolvedor Full Stack Pleno
+- Graduado em Análise e Desenvolvimento de Sistemas
+- Cursando MBA Full Stack Developer - Rocketseat
 
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,js,html,css"></img>
+  <img src="https://skillicons.dev/icons?i=react,reactnative,ts,nodejs,js,html,css"></img>
 </div>
 <br>
 
