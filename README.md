@@ -5,7 +5,7 @@
 
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,js,html,css"></img>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,js,html,css,mongodb,discord"></img>
 </div>
 <br>
 
