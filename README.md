@@ -10,8 +10,7 @@
 <br>
 
 <div align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=felipesdl&show_icons=true&theme=algolia&include_all_commits=true"></img>
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesdl&layout=compact&theme=algolia"></img>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipesdl&theme=algolia" alt="mystreak"/>
 </div>
 <br>
 
